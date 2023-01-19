@@ -1,0 +1,48 @@
+input {
+    margin: 2rem;
+}
+
+.imgCharac {
+    width: 300px;
+    border-radius: 20%;
+    margin: auto;   
+    padding: 1rem;
+}
+
+.header {
+    height: 120px;
+}
+
+.card-body {
+        display: flex;
+        flex-direction: column;
+    /* background-color: #ccc; */
+}
+
+.card {
+    background-color: #ccc;
+    margin: 2rem;
+    border-radius: 20px;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.h4footer {
+    color: white;
+    padding-top: 1rem;
+}
+
+.h5footer {
+    color: white;
+    margin-bottom: 0px;
+    padding-bottom: 1rem;
+}
+
+.divFooter {
+    background-color: black;
+}
